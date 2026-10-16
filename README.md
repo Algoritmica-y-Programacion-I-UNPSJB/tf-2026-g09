@@ -7,7 +7,7 @@
 - Vicente Rodríguez Pi (@vrodpi)
 - Huenú Rosalba Beatriz Quijada Margalef (@RositaQuijada7)
 - Teresa de los Ángeles Carabajal Anderson (@AngelesCarabajal)
-- Gianfranco Di Pisa Echagüe
+- Gianfranco Di Pisa Echagüe (@gican)
 
 ## Reglas y alcance
 Batalla Naval de estrategia por turnos. Dos modalidades: 1v1 local o jugador vs CPU. Posicionamiento manual o aleatorio de flota de 5 naves, validación de adyacencias, registro de impactos y estadísticas finales.
