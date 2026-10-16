@@ -6,7 +6,7 @@
 ## Integrantes y aportes
 - Vicente Rodríguez Pi (@vrodpi)
 - Huenú Rosalba Beatriz Quijada Margalef (@RositaQuijada7)
-- Teresa de los Ángeles Carabajal Anderson *(Pendiente corrección de usuario GitHub)*
+- Teresa de los Ángeles Carabajal Anderson (@AngelesCarabajal)
 - Gianfranco Di Pisa Echagüe
 
 ## Reglas y alcance
